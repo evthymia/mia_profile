@@ -1,4 +1,4 @@
 ## Awards
 
 
-:trophy:
+🏆
