@@ -10,5 +10,7 @@ Lernihan E., Nardone J., Naugle M., Otani R., Reynolds D., Segraves D., Tsiamis.
 `2017` | [Algorithmic Design and Analysis of Architectural Origami](https://www.researchgate.net/publication/321989880_Algorithmic_Design_and_Analysis_of_Architectural_Origami)  
 Tsiamis, Mia & Oliva, Alfonso & Calvano, Michele. (2017). Algorithmic Design and Analysis of Architectural Origami. Nexus Network Journal. 10.1007/s00004-017-0361-9.  
 
-
 ------
+
+
+© 2018 Mia Tsiamis

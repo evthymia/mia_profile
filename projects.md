@@ -1,5 +1,6 @@
 ## Projects
 
+
 ------
 ### [Geometrid Pavilion](http://core.thorntontomasetti.com/geometrid-pavilion/)
 `Physical Prototyping` | `Structural Design`  
@@ -27,3 +28,7 @@ Project focuses on exploring notions of collective behaviour of human movement r
 [Article](http://www.i-m.mx/Biloria/IM_Biloria/interperforming-environments)  
 
 ------
+
+
+
+© 2018 Mia Tsiamis
