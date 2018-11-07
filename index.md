@@ -10,4 +10,6 @@
 - [News](./news.html)
 - [Contact](./contact.html)
 
-<img align="right" src="./geometrid_3.jpg">
+
+![Geometrid Pavilion](./geometrid_3.jpg)
+
