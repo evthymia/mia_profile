@@ -14,4 +14,4 @@
 ![Geometrid Pavilion](./geometrid_3.jpg)
 
 
-`© 2018 Mia Tsiamis`
+© 2018 Mia Tsiamis
