@@ -11,5 +11,4 @@
 - [Contact](./contact.html)
 
 
-![Geometrid Pavilion](./geometrid_3.jpg)
-
+<img style="float: right;" src="./geometrid_3.jp">
