@@ -20,4 +20,6 @@ In this course students will study the meaning of parametric design in order to 
 
 
 
+<iframe title="A 3D model" width="800" height="600" src="https://sketchfab.com/models/2606444cdea144799edd4b17915a3306/embed?autospin=0.2&amp;autostart=1" frameborder="0" allow="autoplay; fullscreen; vr" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 © 2018 Mia Tsiamis
