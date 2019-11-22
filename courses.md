@@ -1,4 +1,4 @@
-## /*Teaching*/
+## *Teaching*
 
 ### The New School - Parsons School of Design
 Adjunct Professor
