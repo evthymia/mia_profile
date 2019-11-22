@@ -1,7 +1,7 @@
 ## Teaching
-
-Adjunct Professor
-The New School - Parsons School of Design
+------
+### Adjunct Professor
+### The New School - Parsons School of Design
 
 ------
 ### Interior Parametrics
